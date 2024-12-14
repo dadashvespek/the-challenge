@@ -1,0 +1,20 @@
+{
+    "left": {
+        "type": 0,
+        "level": 0
+    },
+    "up": {
+        "type": 0,
+        "level": 0
+    },
+    "right": {
+        "type": 2,
+        "level": 1
+    },
+    "down": {
+        "type": 0,
+        "level": 0
+    },
+    "type": 0,
+    "level": 0
+}
